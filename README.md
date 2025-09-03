@@ -82,6 +82,9 @@ plain[length] = '\0'; // Null-terminate the plain text string return 0;
 
 
 OUTPUT :-
+
+
+
 ![WhatsApp Image 2025-09-03 at 08 30 18_7d907b39](https://github.com/user-attachments/assets/77afe357-fcca-4b0f-bbf4-6d2ccbc12b91)
 
 
